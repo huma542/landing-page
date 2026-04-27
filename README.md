@@ -21,6 +21,7 @@ This is my solution to the **Landing Page** project from [The Odin Project's Fou
    `index.html` - The structure of the site.
    `style.css` - All custom styling and Flexbox layouts.
    `/images` - Assets for product categories and the hero section.
+you can visit my site here: https://huma542.github.io/landing-page/
 
 ---
 **Learning Journey:** This project helped me move from "just knowing" CSS properties to actually "building" a layout that looks good on a screen.
